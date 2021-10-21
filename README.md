@@ -1,2 +1,4 @@
 # Trip-Calculator
 The project is simple. This is  a program that calculates the expenses for a group of students who like to go on road trips.
+The group agrees in advance to share expenses equally, but it is not practical to share every expense as it occurs. Thus individuals in the group pay for particular things, such as meals, hotels, taxi rides, and plane tickets. After the trip, each student's expenses are tallied and money is exchanged so that the net cost to each is the same, to within one cent. In the past, this money exchange has been tedious and time consuming. Your work  is to compute, from a list of students and their personal expenses from the trip, the minimum amount of money that must change hands in order to equalize (within one cent) all the students' costs.
+the program is written in JavaScript. 
